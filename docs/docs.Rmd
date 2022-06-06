@@ -214,7 +214,8 @@ Data Source: [Weather Underground](https://www.wunderground.com/forecast/us/ny/s
 <br>
 <br>
 
-![Covid Case Time Series in Onondaga County](docs_files/images/Onondaga_Covid_Trend.png)
+![Covid Case Time Series in Onondaga County](docs_files/images/onondaga_covid_trend.png)
+
 Data Sources: [Google and The New YorK Times](https://www.google.com/search?q=covid+onondaga+county&rlz=1C1ONGR_enUS963US963&oq=covid+onon&aqs=chrome.0.0i512l3j69i57j0i512j0i390j69i65l2.5028j0j15&sourceid=chrome&ie=UTF-8)
 
 ]
@@ -256,6 +257,8 @@ Sometimes I use data from **social media...**
 .pull-right[
 
 ![social media data infographic](docs_files/images/social_media_stats_3.png)
+
+Image Credit: [Domo.com](https://www.domo.com/learn/infographic/data-never-sleeps-9)
 
 ]
 
@@ -894,7 +897,7 @@ grid.arrange(ny_under_5_map_smpl, ny_5_18_map_smpl,
 
 - In 2022 data are collected everywhere and ALL THE TIME
 
-   - **People have uploaded 5000 minutes of YouTube videos since I said `Hi`**
+   - **Worldwide, people have streamed over *ONE MILLION* minutes of YouTube videos since I said `Hi`**
    
    - YouTube collects data about every single video that people watch
 
