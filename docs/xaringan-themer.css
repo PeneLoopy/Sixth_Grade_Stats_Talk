@@ -18,18 +18,18 @@
  *  Version: 0.4.1
  *
  * ------------------------------------------------------- */
-@import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,400i,700,700i&display=swap);
-@import url(https://fonts.googleapis.com/css?family=Cabin:600,600i&display=swap);
-@import url(https://fonts.googleapis.com/css?family=Source+Code+Pro:400,700&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Source+Code+Pro&display=swap);
 
 
 :root {
   /* Fonts */
-  --text-font-family: 'Noto Sans';
+  --text-font-family: 'Open Sans';
   --text-font-is-google: 1;
   --text-font-family-fallback: -apple-system, BlinkMacSystemFont, avenir next, avenir, helvetica neue, helvetica, Ubuntu, roboto, noto, segoe ui, arial;
   --text-font-base: sans-serif;
-  --header-font-family: Cabin;
+  --header-font-family: 'Open Sans';
   --header-font-is-google: 1;
   --header-font-family-fallback: Georgia, serif;
   --code-font-family: 'Source Code Pro';
@@ -43,24 +43,43 @@
   --header-h3-font-size: 1.75rem;
 
   /* Colors */
-  --text-color: #000000;
-  --header-color: #1381B0;
-  --background-color: #FFFFFF;
-  --link-color: #1381B0;
-  --text-bold-color: #1381B0;
+  --text-color: #FFFDFC;
+  --header-color: #FF8E00;
+  --background-color: #203299;
+  --link-color: #F76900;
+  --text-bold-color: #F76900;
   --code-highlight-color: rgba(255,255,0,0.5);
-  --inverse-text-color: #000000;
-  --inverse-background-color: #FF961C;
+  --inverse-text-color: #203299;
+  --inverse-background-color: #FF8E00;
   --inverse-header-color: #FFFFFF;
-  --inverse-link-color: #1381B0;
-  --title-slide-background-color: #1381B0;
-  --title-slide-text-color: #000000;
-  --header-background-color: #1381B0;
-  --header-background-text-color: #FFFFFF;
-  --primary: #1381B0;
-  --secondary: #FF961C;
-  --white: #FFFFFF;
-  --black: #000000;
+  --inverse-link-color: #F76900;
+  --title-slide-background-color: #000E54;
+  --title-slide-text-color: #F76900;
+  --header-background-color: #FF8E00;
+  --header-background-text-color: #203299;
+  --primary: #203299;
+  --secondary: #FF8E00;
+  --SU_Orange1: #F76900;
+  --SU_Orange2: #FF8E00;
+  --SU_Red_Orange: #FF431B;
+  --SU_Blue1: #000E54;
+  --SU_Blue2: #203299;
+  --SU_Light_Blue: #2B72D7;
+  --SU_White: #FFFFFF;
+  --SU_Light_Gray: #ADB3B8;
+  --SU_Medium_Gray: #707780;
+  --SU_Black: #000000;
+  --steel_blue: #4682B4;
+  --corn_flower_blue: #6495ED;
+  --deep_sky_blue: #00BFFF;
+  --dark_magenta: #8B008B;
+  --medium_orchid: #BA55D3;
+  --lime_green: #32CD32;
+  --light_sea_green: #20B2AA;
+  --chartreuse: #7FFF00;
+  --orange_red: #FF4500;
+  --blue: #0000FF;
+  --green: #008000;
 }
 
 html {
@@ -101,10 +120,10 @@ h1, h2, h3 {
 }
 .remark-inline-code {
   font-size: var(--code-inline-font-size);
-  color: #1381B0;
+  color: #FF431B;
 }
 .remark-slide-number {
-  color: #1381B0;
+  color: #FFFDFC;
   opacity: 1;
   font-size: 0.9rem;
 }
@@ -152,10 +171,10 @@ a, a > code {
   float: left;
 }
 .left-column h2, .left-column h3 {
-  color: #1381B099;
+  color: #FF8E0099;
 }
 .left-column h2:last-of-type, .left-column h3:last-child {
-  color: #1381B0;
+  color: #FF8E00;
 }
 .right-column {
   width: 75%;
@@ -177,7 +196,7 @@ img, video, iframe {
   max-width: 100%;
 }
 blockquote {
-  border-left: solid 5px #FF961C80;
+  border-left: solid 5px #FF8E0080;
   padding-left: 1em;
 }
 .remark-slide table {
@@ -192,7 +211,7 @@ th, td {
   padding: 5px;
 }
 .remark-slide thead, .remark-slide tfoot, .remark-slide tr:nth-child(even) {
-  background: #FFEAD1;
+  background: #E8EAF4;
 }
 table.dataTable tbody {
   background-color: var(--background-color);
@@ -202,7 +221,7 @@ table.dataTable.display tbody tr.odd {
   background-color: var(--background-color);
 }
 table.dataTable.display tbody tr.even {
-  background-color: #FFEAD1;
+  background-color: #E8EAF4;
 }
 table.dataTable.hover tbody tr:hover, table.dataTable.display tbody tr:hover {
   background-color: rgba(255, 255, 255, 0.5);
@@ -284,16 +303,130 @@ table.dataTable.hover tbody tr:hover, table.dataTable.display tbody tr:hover {
 .bg-secondary {
   background-color: var(--secondary);
 }
-.white {
-  color: var(--white);
+.SU_Orange1 {
+  color: var(--SU_Orange1);
 }
-.bg-white {
-  background-color: var(--white);
+.bg-SU_Orange1 {
+  background-color: var(--SU_Orange1);
 }
-.black {
-  color: var(--black);
+.SU_Orange2 {
+  color: var(--SU_Orange2);
 }
-.bg-black {
-  background-color: var(--black);
+.bg-SU_Orange2 {
+  background-color: var(--SU_Orange2);
+}
+.SU_Red_Orange {
+  color: var(--SU_Red_Orange);
+}
+.bg-SU_Red_Orange {
+  background-color: var(--SU_Red_Orange);
+}
+.SU_Blue1 {
+  color: var(--SU_Blue1);
+}
+.bg-SU_Blue1 {
+  background-color: var(--SU_Blue1);
+}
+.SU_Blue2 {
+  color: var(--SU_Blue2);
+}
+.bg-SU_Blue2 {
+  background-color: var(--SU_Blue2);
+}
+.SU_Light_Blue {
+  color: var(--SU_Light_Blue);
+}
+.bg-SU_Light_Blue {
+  background-color: var(--SU_Light_Blue);
+}
+.SU_White {
+  color: var(--SU_White);
+}
+.bg-SU_White {
+  background-color: var(--SU_White);
+}
+.SU_Light_Gray {
+  color: var(--SU_Light_Gray);
+}
+.bg-SU_Light_Gray {
+  background-color: var(--SU_Light_Gray);
+}
+.SU_Medium_Gray {
+  color: var(--SU_Medium_Gray);
+}
+.bg-SU_Medium_Gray {
+  background-color: var(--SU_Medium_Gray);
+}
+.SU_Black {
+  color: var(--SU_Black);
+}
+.bg-SU_Black {
+  background-color: var(--SU_Black);
+}
+.steel_blue {
+  color: var(--steel_blue);
+}
+.bg-steel_blue {
+  background-color: var(--steel_blue);
+}
+.corn_flower_blue {
+  color: var(--corn_flower_blue);
+}
+.bg-corn_flower_blue {
+  background-color: var(--corn_flower_blue);
+}
+.deep_sky_blue {
+  color: var(--deep_sky_blue);
+}
+.bg-deep_sky_blue {
+  background-color: var(--deep_sky_blue);
+}
+.dark_magenta {
+  color: var(--dark_magenta);
+}
+.bg-dark_magenta {
+  background-color: var(--dark_magenta);
+}
+.medium_orchid {
+  color: var(--medium_orchid);
+}
+.bg-medium_orchid {
+  background-color: var(--medium_orchid);
+}
+.lime_green {
+  color: var(--lime_green);
+}
+.bg-lime_green {
+  background-color: var(--lime_green);
+}
+.light_sea_green {
+  color: var(--light_sea_green);
+}
+.bg-light_sea_green {
+  background-color: var(--light_sea_green);
+}
+.chartreuse {
+  color: var(--chartreuse);
+}
+.bg-chartreuse {
+  background-color: var(--chartreuse);
+}
+.orange_red {
+  color: var(--orange_red);
+}
+.bg-orange_red {
+  background-color: var(--orange_red);
+}
+.blue {
+  color: var(--blue);
+}
+.bg-blue {
+  background-color: var(--blue);
+}
+.green {
+  color: var(--green);
+}
+.bg-green {
+  background-color: var(--green);
 }
 

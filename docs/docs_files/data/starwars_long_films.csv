@@ -1,0 +1,174 @@
+name,height,mass,birth_year,sex,gender,homeworld,species,films
+Luke Skywalker,172,77,19,male,masculine,Tatooine,Human,The Empire Strikes Back
+Luke Skywalker,172,77,19,male,masculine,Tatooine,Human,Revenge of the Sith
+Luke Skywalker,172,77,19,male,masculine,Tatooine,Human,Return of the Jedi
+Luke Skywalker,172,77,19,male,masculine,Tatooine,Human,A New Hope
+Luke Skywalker,172,77,19,male,masculine,Tatooine,Human,The Force Awakens
+C-3PO,167,75,112,none,masculine,Tatooine,Droid,The Empire Strikes Back
+C-3PO,167,75,112,none,masculine,Tatooine,Droid,Attack of the Clones
+C-3PO,167,75,112,none,masculine,Tatooine,Droid,The Phantom Menace
+C-3PO,167,75,112,none,masculine,Tatooine,Droid,Revenge of the Sith
+C-3PO,167,75,112,none,masculine,Tatooine,Droid,Return of the Jedi
+C-3PO,167,75,112,none,masculine,Tatooine,Droid,A New Hope
+R2-D2,104,32,33,none,masculine,Naboo,Droid,The Empire Strikes Back
+R2-D2,104,32,33,none,masculine,Naboo,Droid,Attack of the Clones
+R2-D2,104,32,33,none,masculine,Naboo,Droid,The Phantom Menace
+R2-D2,104,32,33,none,masculine,Naboo,Droid,Revenge of the Sith
+R2-D2,104,32,33,none,masculine,Naboo,Droid,Return of the Jedi
+R2-D2,104,32,33,none,masculine,Naboo,Droid,A New Hope
+R2-D2,104,32,33,none,masculine,Naboo,Droid,The Force Awakens
+Darth Vader,202,136,41.9,male,masculine,Tatooine,Human,The Empire Strikes Back
+Darth Vader,202,136,41.9,male,masculine,Tatooine,Human,Revenge of the Sith
+Darth Vader,202,136,41.9,male,masculine,Tatooine,Human,Return of the Jedi
+Darth Vader,202,136,41.9,male,masculine,Tatooine,Human,A New Hope
+Leia Organa,150,49,19,female,feminine,Alderaan,Human,The Empire Strikes Back
+Leia Organa,150,49,19,female,feminine,Alderaan,Human,Revenge of the Sith
+Leia Organa,150,49,19,female,feminine,Alderaan,Human,Return of the Jedi
+Leia Organa,150,49,19,female,feminine,Alderaan,Human,A New Hope
+Leia Organa,150,49,19,female,feminine,Alderaan,Human,The Force Awakens
+Owen Lars,178,120,52,male,masculine,Tatooine,Human,Attack of the Clones
+Owen Lars,178,120,52,male,masculine,Tatooine,Human,Revenge of the Sith
+Owen Lars,178,120,52,male,masculine,Tatooine,Human,A New Hope
+Beru Whitesun lars,165,75,47,female,feminine,Tatooine,Human,Attack of the Clones
+Beru Whitesun lars,165,75,47,female,feminine,Tatooine,Human,Revenge of the Sith
+Beru Whitesun lars,165,75,47,female,feminine,Tatooine,Human,A New Hope
+R5-D4,97,32,NA,none,masculine,Tatooine,Droid,A New Hope
+Biggs Darklighter,183,84,24,male,masculine,Tatooine,Human,A New Hope
+Obi-Wan Kenobi,182,77,57,male,masculine,Stewjon,Human,The Empire Strikes Back
+Obi-Wan Kenobi,182,77,57,male,masculine,Stewjon,Human,Attack of the Clones
+Obi-Wan Kenobi,182,77,57,male,masculine,Stewjon,Human,The Phantom Menace
+Obi-Wan Kenobi,182,77,57,male,masculine,Stewjon,Human,Revenge of the Sith
+Obi-Wan Kenobi,182,77,57,male,masculine,Stewjon,Human,Return of the Jedi
+Obi-Wan Kenobi,182,77,57,male,masculine,Stewjon,Human,A New Hope
+Anakin Skywalker,188,84,41.9,male,masculine,Tatooine,Human,Attack of the Clones
+Anakin Skywalker,188,84,41.9,male,masculine,Tatooine,Human,The Phantom Menace
+Anakin Skywalker,188,84,41.9,male,masculine,Tatooine,Human,Revenge of the Sith
+Wilhuff Tarkin,180,NA,64,male,masculine,Eriadu,Human,Revenge of the Sith
+Wilhuff Tarkin,180,NA,64,male,masculine,Eriadu,Human,A New Hope
+Chewbacca,228,112,200,male,masculine,Kashyyyk,Wookiee,The Empire Strikes Back
+Chewbacca,228,112,200,male,masculine,Kashyyyk,Wookiee,Revenge of the Sith
+Chewbacca,228,112,200,male,masculine,Kashyyyk,Wookiee,Return of the Jedi
+Chewbacca,228,112,200,male,masculine,Kashyyyk,Wookiee,A New Hope
+Chewbacca,228,112,200,male,masculine,Kashyyyk,Wookiee,The Force Awakens
+Han Solo,180,80,29,male,masculine,Corellia,Human,The Empire Strikes Back
+Han Solo,180,80,29,male,masculine,Corellia,Human,Return of the Jedi
+Han Solo,180,80,29,male,masculine,Corellia,Human,A New Hope
+Han Solo,180,80,29,male,masculine,Corellia,Human,The Force Awakens
+Greedo,173,74,44,male,masculine,Rodia,Rodian,A New Hope
+Jabba Desilijic Tiure,175,1358,600,hermaphroditic,masculine,Nal Hutta,Hutt,The Phantom Menace
+Jabba Desilijic Tiure,175,1358,600,hermaphroditic,masculine,Nal Hutta,Hutt,Return of the Jedi
+Jabba Desilijic Tiure,175,1358,600,hermaphroditic,masculine,Nal Hutta,Hutt,A New Hope
+Wedge Antilles,170,77,21,male,masculine,Corellia,Human,The Empire Strikes Back
+Wedge Antilles,170,77,21,male,masculine,Corellia,Human,Return of the Jedi
+Wedge Antilles,170,77,21,male,masculine,Corellia,Human,A New Hope
+Jek Tono Porkins,180,110,NA,male,masculine,Bestine IV,Human,A New Hope
+Yoda,66,17,896,male,masculine,NA,Yoda's species,The Empire Strikes Back
+Yoda,66,17,896,male,masculine,NA,Yoda's species,Attack of the Clones
+Yoda,66,17,896,male,masculine,NA,Yoda's species,The Phantom Menace
+Yoda,66,17,896,male,masculine,NA,Yoda's species,Revenge of the Sith
+Yoda,66,17,896,male,masculine,NA,Yoda's species,Return of the Jedi
+Palpatine,170,75,82,male,masculine,Naboo,Human,The Empire Strikes Back
+Palpatine,170,75,82,male,masculine,Naboo,Human,Attack of the Clones
+Palpatine,170,75,82,male,masculine,Naboo,Human,The Phantom Menace
+Palpatine,170,75,82,male,masculine,Naboo,Human,Revenge of the Sith
+Palpatine,170,75,82,male,masculine,Naboo,Human,Return of the Jedi
+Boba Fett,183,78.2,31.5,male,masculine,Kamino,Human,The Empire Strikes Back
+Boba Fett,183,78.2,31.5,male,masculine,Kamino,Human,Attack of the Clones
+Boba Fett,183,78.2,31.5,male,masculine,Kamino,Human,Return of the Jedi
+IG-88,200,140,15,none,masculine,NA,Droid,The Empire Strikes Back
+Bossk,190,113,53,male,masculine,Trandosha,Trandoshan,The Empire Strikes Back
+Lando Calrissian,177,79,31,male,masculine,Socorro,Human,The Empire Strikes Back
+Lando Calrissian,177,79,31,male,masculine,Socorro,Human,Return of the Jedi
+Lobot,175,79,37,male,masculine,Bespin,Human,The Empire Strikes Back
+Ackbar,180,83,41,male,masculine,Mon Cala,Mon Calamari,Return of the Jedi
+Ackbar,180,83,41,male,masculine,Mon Cala,Mon Calamari,The Force Awakens
+Mon Mothma,150,NA,48,female,feminine,Chandrila,Human,Return of the Jedi
+Arvel Crynyd,NA,NA,NA,male,masculine,NA,Human,Return of the Jedi
+Wicket Systri Warrick,88,20,8,male,masculine,Endor,Ewok,Return of the Jedi
+Nien Nunb,160,68,NA,male,masculine,Sullust,Sullustan,Return of the Jedi
+Qui-Gon Jinn,193,89,92,male,masculine,NA,Human,The Phantom Menace
+Nute Gunray,191,90,NA,male,masculine,Cato Neimoidia,Neimodian,Attack of the Clones
+Nute Gunray,191,90,NA,male,masculine,Cato Neimoidia,Neimodian,The Phantom Menace
+Nute Gunray,191,90,NA,male,masculine,Cato Neimoidia,Neimodian,Revenge of the Sith
+Finis Valorum,170,NA,91,male,masculine,Coruscant,Human,The Phantom Menace
+Jar Jar Binks,196,66,52,male,masculine,Naboo,Gungan,Attack of the Clones
+Jar Jar Binks,196,66,52,male,masculine,Naboo,Gungan,The Phantom Menace
+Roos Tarpals,224,82,NA,male,masculine,Naboo,Gungan,The Phantom Menace
+Rugor Nass,206,NA,NA,male,masculine,Naboo,Gungan,The Phantom Menace
+Ric Olié,183,NA,NA,NA,NA,Naboo,NA,The Phantom Menace
+Watto,137,NA,NA,male,masculine,Toydaria,Toydarian,Attack of the Clones
+Watto,137,NA,NA,male,masculine,Toydaria,Toydarian,The Phantom Menace
+Sebulba,112,40,NA,male,masculine,Malastare,Dug,The Phantom Menace
+Quarsh Panaka,183,NA,62,NA,NA,Naboo,NA,The Phantom Menace
+Shmi Skywalker,163,NA,72,female,feminine,Tatooine,Human,Attack of the Clones
+Shmi Skywalker,163,NA,72,female,feminine,Tatooine,Human,The Phantom Menace
+Darth Maul,175,80,54,male,masculine,Dathomir,Zabrak,The Phantom Menace
+Bib Fortuna,180,NA,NA,male,masculine,Ryloth,Twi'lek,Return of the Jedi
+Ayla Secura,178,55,48,female,feminine,Ryloth,Twi'lek,Attack of the Clones
+Ayla Secura,178,55,48,female,feminine,Ryloth,Twi'lek,The Phantom Menace
+Ayla Secura,178,55,48,female,feminine,Ryloth,Twi'lek,Revenge of the Sith
+Dud Bolt,94,45,NA,male,masculine,Vulpter,Vulptereen,The Phantom Menace
+Gasgano,122,NA,NA,male,masculine,Troiken,Xexto,The Phantom Menace
+Ben Quadinaros,163,65,NA,male,masculine,Tund,Toong,The Phantom Menace
+Mace Windu,188,84,72,male,masculine,Haruun Kal,Human,Attack of the Clones
+Mace Windu,188,84,72,male,masculine,Haruun Kal,Human,The Phantom Menace
+Mace Windu,188,84,72,male,masculine,Haruun Kal,Human,Revenge of the Sith
+Ki-Adi-Mundi,198,82,92,male,masculine,Cerea,Cerean,Attack of the Clones
+Ki-Adi-Mundi,198,82,92,male,masculine,Cerea,Cerean,The Phantom Menace
+Ki-Adi-Mundi,198,82,92,male,masculine,Cerea,Cerean,Revenge of the Sith
+Kit Fisto,196,87,NA,male,masculine,Glee Anselm,Nautolan,Attack of the Clones
+Kit Fisto,196,87,NA,male,masculine,Glee Anselm,Nautolan,The Phantom Menace
+Kit Fisto,196,87,NA,male,masculine,Glee Anselm,Nautolan,Revenge of the Sith
+Eeth Koth,171,NA,NA,male,masculine,Iridonia,Zabrak,The Phantom Menace
+Eeth Koth,171,NA,NA,male,masculine,Iridonia,Zabrak,Revenge of the Sith
+Adi Gallia,184,50,NA,female,feminine,Coruscant,Tholothian,The Phantom Menace
+Adi Gallia,184,50,NA,female,feminine,Coruscant,Tholothian,Revenge of the Sith
+Saesee Tiin,188,NA,NA,male,masculine,Iktotch,Iktotchi,The Phantom Menace
+Saesee Tiin,188,NA,NA,male,masculine,Iktotch,Iktotchi,Revenge of the Sith
+Yarael Poof,264,NA,NA,male,masculine,Quermia,Quermian,The Phantom Menace
+Plo Koon,188,80,22,male,masculine,Dorin,Kel Dor,Attack of the Clones
+Plo Koon,188,80,22,male,masculine,Dorin,Kel Dor,The Phantom Menace
+Plo Koon,188,80,22,male,masculine,Dorin,Kel Dor,Revenge of the Sith
+Mas Amedda,196,NA,NA,male,masculine,Champala,Chagrian,Attack of the Clones
+Mas Amedda,196,NA,NA,male,masculine,Champala,Chagrian,The Phantom Menace
+Gregar Typho,185,85,NA,male,masculine,Naboo,Human,Attack of the Clones
+Cordé,157,NA,NA,female,feminine,Naboo,Human,Attack of the Clones
+Cliegg Lars,183,NA,82,male,masculine,Tatooine,Human,Attack of the Clones
+Poggle the Lesser,183,80,NA,male,masculine,Geonosis,Geonosian,Attack of the Clones
+Poggle the Lesser,183,80,NA,male,masculine,Geonosis,Geonosian,Revenge of the Sith
+Luminara Unduli,170,56.2,58,female,feminine,Mirial,Mirialan,Attack of the Clones
+Luminara Unduli,170,56.2,58,female,feminine,Mirial,Mirialan,Revenge of the Sith
+Barriss Offee,166,50,40,female,feminine,Mirial,Mirialan,Attack of the Clones
+Dormé,165,NA,NA,female,feminine,Naboo,Human,Attack of the Clones
+Dooku,193,80,102,male,masculine,Serenno,Human,Attack of the Clones
+Dooku,193,80,102,male,masculine,Serenno,Human,Revenge of the Sith
+Bail Prestor Organa,191,NA,67,male,masculine,Alderaan,Human,Attack of the Clones
+Bail Prestor Organa,191,NA,67,male,masculine,Alderaan,Human,Revenge of the Sith
+Jango Fett,183,79,66,male,masculine,Concord Dawn,Human,Attack of the Clones
+Zam Wesell,168,55,NA,female,feminine,Zolan,Clawdite,Attack of the Clones
+Dexter Jettster,198,102,NA,male,masculine,Ojom,Besalisk,Attack of the Clones
+Lama Su,229,88,NA,male,masculine,Kamino,Kaminoan,Attack of the Clones
+Taun We,213,NA,NA,female,feminine,Kamino,Kaminoan,Attack of the Clones
+Jocasta Nu,167,NA,NA,female,feminine,Coruscant,Human,Attack of the Clones
+Ratts Tyerell,79,15,NA,male,masculine,Aleen Minor,Aleena,The Phantom Menace
+R4-P17,96,NA,NA,none,feminine,NA,Droid,Attack of the Clones
+R4-P17,96,NA,NA,none,feminine,NA,Droid,Revenge of the Sith
+Wat Tambor,193,48,NA,male,masculine,Skako,Skakoan,Attack of the Clones
+San Hill,191,NA,NA,male,masculine,Muunilinst,Muun,Attack of the Clones
+Shaak Ti,178,57,NA,female,feminine,Shili,Togruta,Attack of the Clones
+Shaak Ti,178,57,NA,female,feminine,Shili,Togruta,Revenge of the Sith
+Grievous,216,159,NA,male,masculine,Kalee,Kaleesh,Revenge of the Sith
+Tarfful,234,136,NA,male,masculine,Kashyyyk,Wookiee,Revenge of the Sith
+Raymus Antilles,188,79,NA,male,masculine,Alderaan,Human,Revenge of the Sith
+Raymus Antilles,188,79,NA,male,masculine,Alderaan,Human,A New Hope
+Sly Moore,178,48,NA,NA,NA,Umbara,NA,Attack of the Clones
+Sly Moore,178,48,NA,NA,NA,Umbara,NA,Revenge of the Sith
+Tion Medon,206,80,NA,male,masculine,Utapau,Pau'an,Revenge of the Sith
+Finn,NA,NA,NA,male,masculine,NA,Human,The Force Awakens
+Rey,NA,NA,NA,female,feminine,NA,Human,The Force Awakens
+Poe Dameron,NA,NA,NA,male,masculine,NA,Human,The Force Awakens
+BB8,67,NA,NA,none,masculine,NA,Droid,The Force Awakens
+Captain Phasma,NA,NA,NA,NA,NA,NA,NA,The Force Awakens
+Padmé Amidala,165,45,46,female,feminine,Naboo,Human,Attack of the Clones
+Padmé Amidala,165,45,46,female,feminine,Naboo,Human,The Phantom Menace
+Padmé Amidala,165,45,46,female,feminine,Naboo,Human,Revenge of the Sith
