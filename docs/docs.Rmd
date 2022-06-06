@@ -255,7 +255,7 @@ Sometimes I use data from **social media...**
 
 .pull-right[
 
-![social media data infographic](docs_files/images/social_media_stats_3.PNG)
+![social media data infographic](docs_files/images/social_media_stats_3.png)
 
 ]
 
