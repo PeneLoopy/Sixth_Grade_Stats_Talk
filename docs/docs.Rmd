@@ -213,7 +213,7 @@ Data Source: [Weather Underground](https://www.wunderground.com/forecast/us/ny/s
   
 <br>
 
-![Onondaga County Covid Time Series](docs_files/images/onondaga_covid_trend.png)
+![Onondaga County Covid Time Series](docs_files/images/onondaga_covid_6_5_22.png)
   
 Data Sources: [The New YorK Times and Google](https://www.google.com/search?q=covid+onondaga+county&rlz=1C1ONGR_enUS963US963&oq=covid+onon&aqs=chrome.0.0i512l3j69i57j0i512j0i390j69i65l2.5028j0j15&sourceid=chrome&ie=UTF-8)
 
