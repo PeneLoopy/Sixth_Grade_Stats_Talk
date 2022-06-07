@@ -434,14 +434,14 @@ my_stars_smry <- my_starwars_long_droids_humans |>
            stat="identity", position="dodge") +
   coord_flip() + 
   scale_fill_manual(values=c("darkblue", "lightblue")) +
-  labs(x="", y="Mean Height (cm)", fill="") +
+  labs(x="", y="Mean Height (cm)", fill="", 
+       caption="Data Source: R dplyr package") +
   theme_classic() +
   theme(legend.position = "bottom",
         axis.text = element_text(size=25, color="darkblue"),
         axis.title = element_text(size=25, color="darkblue"),
-        legend.text = element_text(size=20, color="darkblue")))
-
-
+        legend.text = element_text(size=20, color="darkblue"),
+        plot.caption = element_text(size=15, color="darkblue")))
 ```
 
 ]
