@@ -584,7 +584,7 @@ ny_county_xy <- read_csv("docs_files/data/ny_county_xy.csv", show_col_types = F)
   filter(county %in% c("Hamilton", "Schuyler", "Yates", "Lewis", "Schoharie", 
                        "Seneca", "Kings", "Queens", "New York", "Suffolk", 
                        "Bronx", "Nassau", "Onondaga", "Erie", "Albany", 
-                       "Monroe", "St. Lawrence", "Cortland", "Steuben", "Jefferson"))
+                       "Monroe", "St. Lawrence", "Tompkins", "Steuben", "Jefferson"))
 
 ny_age_pct <- ny_age_pct |>
   full_join(ny_county_xy)
@@ -667,7 +667,7 @@ dev.off()
 `Most Populous` <- c("Kings: 2.6M", "Queens: 2.3M", "New York: 1.6M", "Suffolk: 1.5M", "Bronx: 1.4M", "Nassau: 1.4M")
 `Least Populous` <- c("Hamilton: 4.5K", "Schuyler: 17.9K", "Yates: 25.0K", "Lewis: 26.6K", "Schoharie: 31.2K", "Seneca: 34.4K")
 
-Extremes <- tibble(`Most Populous`,`Least Populous`) |>kable()
+Extremes <- tibble(`Most Populous`,`Least Populous`) |> kable()
 
 
 ```
