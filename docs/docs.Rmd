@@ -185,13 +185,7 @@ class:left top
 We can learn so much from looking at data.
 
 We check weather forecast **data** every day to plan outside activities.
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+.center[![Bruno the Dog](docs_files/images/Bruno.png)]
 
 We've spent that past 2+ years checking daily **statistics** to know if it was safe to go to: 
 
